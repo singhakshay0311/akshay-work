@@ -3,6 +3,5 @@ Step 1	:-	Create free acoount in https://mailtrap.io/ for free SMTP Server
 Step 2	:-	Set security credentilas to connect broker to SMTP server. Below is the command
 			mqsisetdbparms IB9NODE -n smtp::mySecurityIdentityObjectName -u myUserID -p myPassword
 
-Step 3	:-	Import PI in IBM Integration Bus and use it
-
-Note :-		URL to initiate the Flow http://IP_Address:Port_Number/send_email
+Step 3	:- Import PI in IBM Integration Bus and use it
+ 
